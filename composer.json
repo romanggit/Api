@@ -7,16 +7,7 @@
         "bot",
         "bot api"
     ],
-    "homepage": "https://github.com/TelegramBot/Api",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Ilya Gusev",
-            "email": "mail@igusev.ru",
-            "homepage": "https://php-cat.com",
-            "role": "Developer"
-        }
-    ],
     "require": {
         "php" : ">=5.5.0",
         "ext-curl": "*"
@@ -41,7 +32,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "1.0-dev"
+            "dev-master": "master"
         }
     }
 }
